@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="30px" viewBox="0 0 176 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy</title>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path-3" transform="translate(15.000000, 15.000000) scale(-1, 1) translate(-15.000000, -15.000000) " points="6 0 6 24 18.8982857 24 24 18.8982857 24 0 30 0 30 21.3854978 21.3854978 30 0 30 0 0"></polygon>
+            <path d="M36,0 L57.3854978,0 L66,8.61450217 L66,21.3854978 L57.3854978,30 L36,30 L36,18.9002165 L44.6145022,10.2857143 L59.1874286,10.2857143 L54.9017143,6 L36,6 L36,0 Z M60,16.2857143 L47.0948571,16.2857143 L42,21.3805714 L42,24 L54.8982857,24 L60,18.8982857 L60,16.2857143 Z" id="Path-6"></path>
+            <path d="M138,0 L138,11.0997835 L129.385498,19.7142857 L114.812571,19.7142857 L119.098286,24 L138,24 L138,30 L116.614502,30 L108,21.3854978 L108,8.61450217 L116.614502,0 L138,0 Z M132,6 L119.094857,6 L114,11.0948571 L114,13.7142857 L126.898286,13.7142857 L132,8.61257143 L132,6 Z" id="Path-13-Copy"></path>
+            <path d="M152,0 L152,6.042 L158.043074,0 L176,0 L176,6 L160.523429,6 L152,14.527 L152,30 L146,30 L146,0 L152,0 Z" id="Path-9"></path>
+            <polygon id="Path-3" transform="translate(87.000000, 15.000000) scale(1, -1) translate(-87.000000, -15.000000) " points="78 0 78 24 90.8982857 24 96 18.8982857 96 0 102 0 102 21.3854978 93.3854978 30 72 30 72 0"></polygon>
+        </g>
+    </g>
+</svg>
