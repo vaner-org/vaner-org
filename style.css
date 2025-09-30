@@ -1,8 +1,7 @@
 * {
-	font-family: 'MODERNIZ', sans-serif;
+	font-family: 'Nudica', sans-serif;
 	margin: 0;
 	padding: 0;
-	font-weight: bold;
 }
 
 html, body {
@@ -10,7 +9,7 @@ html, body {
 	margin: 0px 0px;
 	padding: 0;
 	height: 100%;
-	color: black;
+	color: white;
 }
 
 a:link {
@@ -20,11 +19,6 @@ a:link {
 
 a:visited {
 	color: black;
-}
-
-p {
-	color: #C70039;
-	font-size: 1.65vw;
 }
 
 #side {
@@ -38,10 +32,49 @@ p {
 }
 
 #logo {
-	width: 30%;
+	width: 30rem;
+	max-width: 80%;
 	text-align: center;
 }
 
 #logo img {
 	width: 100%;
+}
+
+#social-media-banner {
+	display: flex;
+	flex-direction: row;
+	gap: 0.5rem;
+	width: 30rem;
+	max-width: 80%;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+
+#social-media-icon {
+	align-content: center;
+}
+
+#social-media-icon img {
+	width: 2rem;
+}
+
+#construction {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	background-color: #f4872c;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+#construction p {
+	color: black;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	font-size: 1.25rem;
 }
